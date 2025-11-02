@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Environment / secrets
+.env
+config/*.secret.js
+
+# Playwright test artifacts
+test-results/
+screenshots/
+videos/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,5 @@
+
+export const errorMessage = {
+  BAD_REQUEST: 'BAD_REQUEST',
+  TRANSACTION_LIMIT_DAILY: 'TRANSACTION_LIMIT_DAILY'
+}
